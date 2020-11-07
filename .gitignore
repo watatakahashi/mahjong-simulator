@@ -1,0 +1,5 @@
+#cache
+__pycache__
+
+# data file
+work/score.csv
