@@ -4,3 +4,6 @@ __pycache__
 
 # data file
 work/score.csv
+
+image file
+*.png
