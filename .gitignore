@@ -1,0 +1,12 @@
+#cache
+__pycache__
+.ipynb_checkpoints
+catboost_info
+mlruns
+
+# data file
+data
+.csv
+
+image file
+*.png
