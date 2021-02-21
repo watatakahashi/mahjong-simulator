@@ -1,0 +1,12 @@
+openpyxl
+seaborn
+pycaret
+statsmodels
+japanize-matplotlib
+keras
+tensorflow
+pillow
+pyscreenshot
+opencv-contrib-python
+pyautogui
+requests-html

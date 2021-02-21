@@ -1,0 +1,18 @@
+#cache
+__pycache__
+.ipynb_checkpoints
+catboost_info
+mlruns
+.DS_Store
+
+
+# data file
+data
+.csv
+
+# model file
+models
+
+# image file
+*.png
+
