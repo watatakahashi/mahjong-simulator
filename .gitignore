@@ -3,6 +3,8 @@ __pycache__
 .ipynb_checkpoints
 catboost_info
 mlruns
+.DS_Store
+
 
 # data file
 data
@@ -10,3 +12,4 @@ data
 
 image file
 *.png
+
